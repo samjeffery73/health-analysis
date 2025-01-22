@@ -55,6 +55,9 @@ cover/
 *.mo
 *.pot
 
+# Config Files
+/login_files.py
+
 # Django stuff:
 *.log
 local_settings.py
