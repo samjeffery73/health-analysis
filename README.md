@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
 My last project was only using Python. This time I will use:
 Python to load data
 MySQL to perform queries
-Tableau for visualizations.
+and Tableau for visualizations.
 
 
 Deliverables:
